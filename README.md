@@ -1,0 +1,2 @@
+# goldrate
+rate display
